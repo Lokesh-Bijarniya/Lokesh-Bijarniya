@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1573&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1573" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himanshu+Prajapati!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Bijarniya!;" />
 </h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu1573" alt="himanshu1573" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p>
 
 
 <h3 align="center">"🚀 Passionate software developer sculpting digital solutions with code. Enthusiastic open-source contributor,looking for an opportunity to nurture the community with collaborative innovations 🇮🇳 💻✨" </h3>
