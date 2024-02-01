@@ -13,21 +13,21 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at  **functionup school of technology**
+ 🔭 I’m currently studying at  **FunctionUp school of technology**
  
- 🌱 I’m currently learning **Backend,DSA**
+ 🌱 I’m currently learning **Frontend,DSA**
 
-💬 Ask me about **Node.js, React, ... or anything [here](https://github.com/himanshu1573/himanshu1573/issues)**
+💬 Ask me about **javascript,Html,Css,Java ... or anything [here](https://github.com/Lokesh-Bijarniya/Lokesh-Bijarniya/issues)**
 
 
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:himanshuprajapati15072003@gmail.com">
+  <a href="mailto:lkbijarniya2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/himanshu-prajapati-48814724a/" target="_blank">
+  <a href="https://www.linkedin.com/in/lokesh-bijarniya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://himanshu1573.github.io" target="_blank">
