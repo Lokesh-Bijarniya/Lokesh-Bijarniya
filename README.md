@@ -1,6 +1,5 @@
-<img src="![Uploading Screenshot 2024-02-01 at 11.24.32 PM.png…]()
-" alt="banner that says Himanshu Prajapati - software developer, open source contributer,learning enthusiast">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1573&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1573" /> </p>
+<img src="https://github.com/Lokesh-Bijarniya/Lokesh-Bijarniya/blob/main/Lokesh_Banner.pdf" alt="banner that says Lokesh Bijarniya - software developer,learning enthusiast">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lokesh-Bijarniya&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1573" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Bijarniya!;" />
