@@ -6,7 +6,7 @@
 </h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu1573" alt="himanshu1573" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya"  alt="Lokesh-Bijarniya" /></a> </p>
 <!-- <p align="left"> <a href="https://github.com/Lokesh-Bijarniya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p> -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 
