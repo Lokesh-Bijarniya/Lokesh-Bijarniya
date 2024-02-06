@@ -4,8 +4,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Bijarniya!;" />
 </h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p>
-
+<p align="left"> <a href="https://github.com/Lokesh-Bijarniya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h3 align="center">"🚀 Passionate software developer sculpting digital solutions with code. Enthusiastic open-source contributor,looking for an opportunity to nurture the community with collaborative innovations 🇮🇳 💻✨" </h3>
 
