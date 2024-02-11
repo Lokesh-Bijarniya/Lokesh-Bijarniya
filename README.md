@@ -6,6 +6,9 @@
 </h1>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lokesh-Bijarniya&label=Profile%20views&color=0e75b6&style=flat" alt="Lokesh-Bijarniya" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p>
 <!-- <p align="left"> <a href="https://github.com/Lokesh-Bijarniya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya"  alt="Lokesh-Bijarniya" /></a> </p><!-- <p align="left"> <a href="https://github.com/Lokesh-Bijarniya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p> -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
