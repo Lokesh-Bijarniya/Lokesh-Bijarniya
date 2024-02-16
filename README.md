@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently studying at **FunctionUp School Of Technology**
 
-- 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJs,MongoDB,DSA**
-
-- 👨‍💻 All of my projects are available at [.](.)
+- 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJs
+ 
+- 👨‍💻 All of my projects are available at [https://github.com/Lokesh-Bijarniya](https://github.com/Lokesh-Bijarniya)
 
 - 💬 Ask me about **Html,Css,Javascript**
 
