@@ -1,80 +1,45 @@
-<!-- <img src="https://github.com/Lokesh-Bijarniya/Lokesh-Bijarniya/blob/main/Lokesh_Banner.pdf" alt="banner that says Lokesh Bijarniya - software developer,learning enthusiast">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lokesh-Bijarniya&label=Profile%20views&color=0e75b6&style=flat" alt="Lokesh-Bijarniya" /> </p> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Bijarniya!;" />
 </h1>
+<h3 align="center">🚀 Passionate software developer sculpting digital solutions with code. Enthusiastic open-source contributor,looking for an opportunity to nurture the community with collaborative innovations 🇮🇳 💻✨</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-bijarniya&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-bijarniya" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lokesh-Bijarniya&label=Profile%20views&color=0e75b6&style=flat" alt="Lokesh-Bijarniya" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-bijarniya" alt="lokesh-bijarniya" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p>
-<!-- <p align="left"> <a href="https://github.com/Lokesh-Bijarniya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya"  alt="Lokesh-Bijarniya" /></a> </p><!-- <p align="left"> <a href="https://github.com/Lokesh-Bijarniya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Lokesh-Bijarniya" alt="Lokesh-Bijarniya" /></a> </p> -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
+- 🔭 I’m currently studying at **FunctionUp School Of Technology**
 
-<h3 align="center">"🚀 Passionate software developer sculpting digital solutions with code. Enthusiastic open-source contributor,looking for an opportunity to nurture the community with collaborative innovations 🇮🇳 💻✨" </h3>
+- 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJs,MongoDB,DSA**
 
-<br/>
+- 👨‍💻 All of my projects are available at [.](.)
 
-<div align="center">
- 
- 🔭 I’m currently studying at  **FunctionUp school of technology**
- 
- 🌱 I’m currently learning **Frontend,DSA**
+- 💬 Ask me about **Html,Css,Javascript**
 
-💬 Ask me about **javascript,Html,Css,Java ... or anything [here](https://github.com/Lokesh-Bijarniya/Lokesh-Bijarniya/issues)**
+- 📫 How to reach me **lkbijarniya2@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/10VnB49zYfO4_E-oMKP8JnASEoztMiklQ/view?usp=sharing](https://drive.google.com/file/d/10VnB49zYfO4_E-oMKP8JnASEoztMiklQ/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lokeshbijarnia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokeshbijarnia_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lokesh-bijarniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-bijarniya" height="30" width="40" /></a>
+<a href="https://instagram.com/lokesh_bijarniya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh_bijarniya_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/lokesh_bijarni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lokesh_bijarni" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lkbijarniya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lkbijarniya2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/lokesh_bijarniya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lokesh_bijarniya_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lokesh_bijarniya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokesh_bijarniya_" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/lkbijars0y1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lkbijars0y1" height="30" width="40" /></a>
+<a href="https://discord.gg/lokesh_bijarniya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lokesh_bijarniya_" height="30" width="40" /></a>
+</p>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:lkbijarniya2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/lokesh-bijarniya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://himanshu1573.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java,nextjs" /><br>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh-bijarniya&show_icons=true&locale=en&layout=compact" alt="lokesh-bijarniya" /></p>
 
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-bijarniya&show_icons=true&locale=en" alt="lokesh-bijarniya" /></p>
 
-
-
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<img src="https://streak-stats.demolab.com?user=Lokesh-Bijarniya&theme=green-nur&hide_border=true" alt="GitHub Streak" /></a>
-  
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lokesh-Bijarniya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Lokesh-Bijarniya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  
-  
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-bijarniya&" alt="lokesh-bijarniya" /></p>
 
 
